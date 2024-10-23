@@ -11,10 +11,11 @@
 
 <p> NO. # De Control: 1206</p>
 
+<a href="https://www.google.com.mx/?hl=es">This is a link</a>
+
 </body>
 </html>
 
-
-
-![image](https://github.com/user-attachments/assets/a8cdd40b-b8c4-4ebc-bdee-fda3684e30c6)
-![image](https://github.com/user-attachments/assets/592c1a8b-b75c-4321-b73c-d4c18ff33570)
+![image](https://github.com/user-attachments/assets/55c1bdbb-aa53-4253-a307-37211f3a0383)
+![image](https://github.com/user-attachments/assets/b97f1c9b-0c8d-4ab1-9ca7-59a1fb8fd37a)
+![image](https://github.com/user-attachments/assets/5a974ae9-01e6-49f7-86dc-45eecca7fcbc)
